@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "siva": [
+    {
+      "EmployeeName": "siva",
+      "Designation": "CEO",
+      "Salary": 125000,
+      "Email": "sin@gmail.com",
+      "Mobile": 9500614285,
+      "Qualification": "B.E/B.Tech",
+      "Manager": "bg66",
+      "id": 1
+    },
+    {
+      "EmployeeName": "guru",
+      "Designation": "Assistant",
+      "Salary": 30000,
+      "Email": "siva@gmail.com",
+      "Mobile": 8925380010,
+      "Qualification": "MSC",
+      "Manager": "ju55",
+      "id": 2
+    },
+    {
+      "EmployeeName": "gomathi",
+      "Designation": "Trainee",
+      "Salary": 15000,
+      "Email": "gomathi@gmail.com",
+      "Mobile": 4512786495,
+      "Qualification": "M.phil",
+      "Manager": "re88",
+      "id": 3
+    }
+  ]
+}
